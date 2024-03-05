@@ -10,9 +10,7 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## 🟠Features
-
-classify news: 
-
+ 
 - The provided code is an implementation of a Convolutional Neural Network (CNN) for the purpose of detecting plant diseases based on image data
 - 
 ---
@@ -26,5 +24,5 @@ About Dataset :
 ## 🟢Tools
 ----
 - python
-- tensorflow , numpy , keras , pad_sequences , pandas , matplotlib
+- tensorflow , numpy , keras , pad_sequences , pandas , matplotlib , to_categorical , model_selection ,Dense, Flatten, Dropout, Adam .
 ----
